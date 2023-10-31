@@ -1,13 +1,4 @@
-/*
-Final Project Milestone 5
-Module: Book
-Filename: Book.h
-Version 1.0
-Author	Deep Patel
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my project milestones.
------------------------------------------------------------*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstring>
 #include <iostream>
